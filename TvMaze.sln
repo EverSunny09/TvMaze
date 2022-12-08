@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvMaze.Web", "TvMaze\TvMaze.Web.csproj", "{91F00ECA-8AD5-47F8-8A3B-2A9CF4F098DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F00ECA-8AD5-47F8-8A3B-2A9CF4F098DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F00ECA-8AD5-47F8-8A3B-2A9CF4F098DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F00ECA-8AD5-47F8-8A3B-2A9CF4F098DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F00ECA-8AD5-47F8-8A3B-2A9CF4F098DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AA651D-7CC1-44CB-B8B8-55DF3E846B34}
+	EndGlobalSection
+EndGlobal

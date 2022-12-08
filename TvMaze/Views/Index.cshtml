@@ -1,0 +1,16 @@
+﻿@model TvMaze.Web.Models.Root
+<html>
+<head>
+    <title>@Model.id</title>
+</head>
+<body>
+    <p>@Model.name</p>
+    <br />
+    <p>@Model.type</p>
+    <br />
+    @foreach (var episode in Model._embedded.episodes)
+    {
+        <p>@episode.name</p>
+    }
+</body>
+</html>
